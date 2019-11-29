@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>outer-heaven.fm</title>
-    <link>http://example.org/</link>
+    <link>https://outerheavenproject.github.io/podcast/</link>
     <description>Recent content on outer-heaven.fm</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <lastBuildDate>Fri, 29 Nov 2019 12:20:27 +0900</lastBuildDate>
-    <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://outerheavenproject.github.io/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://outerheavenproject.github.io/podcast/about/</link>
       <pubDate>Fri, 29 Nov 2019 12:20:27 +0900</pubDate>
-      <guid>http://example.org/about/</guid>
+      <guid>https://outerheavenproject.github.io/podcast/about/</guid>
       <description>&lt;p&gt;&lt;code&gt;outer-heaven.fm&lt;/code&gt; は Native アプリエンジニアとして働いている 3 人が Android を中心として、Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す &lt;code&gt;OUTER HEAVEN PROJECT&lt;/code&gt; の Podcast です。&lt;/p&gt;
 &lt;p&gt;更新頻度は不定期です。更新されるかもしれないし、されないかもしれません。&lt;/p&gt;
 &lt;h2 id=&#34;hosted-by&#34;&gt;Hosted by&lt;/h2&gt;

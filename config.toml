@@ -1,5 +1,5 @@
 theme = "zen"
-baseURL = "http://example.org/"
+baseURL = "https://outerheavenproject.github.io/podcast/"
 title = "outer-heaven.fm"
 languageCode = "ja-jp"
 publishDir = "docs"

@@ -3,21 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://outerheavenproject.github.io/podcast/about/</loc>
     <lastmod>2019-11-29T12:20:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://outerheavenproject.github.io/podcast/</loc>
     <lastmod>2019-11-29T12:20:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://outerheavenproject.github.io/podcast/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://outerheavenproject.github.io/podcast/tags/</loc>
   </url>
   
 </urlset>
