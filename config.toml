@@ -7,3 +7,6 @@ publishDir = "docs"
 [author]
 name = "OUTER HEAVEN PROJECT"
 url = "https://github.com/outerheavenproject"
+
+[markup.goldmark.renderer]
+unsafe = true
