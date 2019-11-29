@@ -3,3 +3,7 @@ baseURL = "http://example.org/"
 title = "outer-heaven.fm"
 languageCode = "ja-jp"
 publishDir = "docs"
+
+[author]
+name = "OUTER HEAVEN PROJECT"
+url = "https://github.com/outerheavenproject"
