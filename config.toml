@@ -1,5 +1,5 @@
 theme = "zen"
 baseURL = "http://example.org/"
-languageCode = "en-us"
 title = "outer-heaven.fm"
+languageCode = "ja-jp"
 publishDir = "docs"
