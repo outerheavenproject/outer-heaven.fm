@@ -3,7 +3,7 @@ title: "About"
 date: 2019-11-29T12:20:27+09:00
 ---
 
-`outer-heaven.fm` は Native アプリエンジニアとして働いている 3 人が Android を中心として、Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す `OUTER HEAVEN PROJECT` の Podcast です。
+`outer-heaven.fm` は Native アプリエンジニアとして働いている 3 人が Android を中心として、Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す [OUTER HEAVEN PROJECT](https://github.com/outerheavenproject) の Podcast です。
 
 更新頻度は不定期です。更新されるかもしれないし、されないかもしれません。
 
