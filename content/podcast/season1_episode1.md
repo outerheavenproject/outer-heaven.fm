@@ -1,10 +1,24 @@
 ---
 title: "Season1 Episode1 - OUTER HEAVEN PROJECT"
 date: 2019-12-02T21:11:55+09:00
-draft: true
+draft: false
+podcast:
+    mp3: "./sounds/001/ohfm-001-01.m4a"
+    duration: 11:57
+    # image:
+    #     src:                # Episode image src, place inside the assets directory (iTunes).
+    #     alt:                # Alt text for the image, explain what is on the image.
+    #     width:              # Image width in the article, defaults to 250px.
+    #     class:              # Image wrapper class.
+    # Episode explicit setting, default to false (iTunes).
+    explicit: false
+    # Episode number (iTunes).
+    episode: 1
+    # Episode season (iTunes).
+    season: 1
+    # Block the episode from iTunes, default to no (iTunes).
+    # block: yes
 ---
-
-<!-- ここに Podcast 入れる -->
 
 `outer-heaven.fm` の 1 回目です。
 
