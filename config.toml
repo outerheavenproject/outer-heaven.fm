@@ -8,5 +8,8 @@ publishDir = "docs"
 name = "OUTER HEAVEN PROJECT"
 url = "https://github.com/outerheavenproject"
 
+[params]
+logo = false
+
 [markup.goldmark.renderer]
 unsafe = true
