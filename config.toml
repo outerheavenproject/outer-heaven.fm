@@ -3,6 +3,7 @@ baseURL = "https://outerheavenproject.github.io/"
 title = "outer-heaven.fm"
 languageCode = "ja-jp"
 publishDir = "public"
+assetDir = "static"
 
 [author]
 name = "OUTER HEAVEN PROJECT"
@@ -15,6 +16,7 @@ logo = false
 title = "outer-heaven.fm"
 description = "Android を中心として Native アプリ界隈を取り巻く技術や、組織、環境の話をざっくばらんに話す OUTER HEAVEN PROJECT の Podcast"
 author = "OUTER HEAVEN PROJECT"
+image = "images/ohfm.png"
 
 [params.podcast.category]
 name = "Technology"
