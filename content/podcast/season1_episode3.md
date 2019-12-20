@@ -2,7 +2,7 @@
 title: "Season1 Episode3 - ThoughtWorks Radar"
 date: 2019-12-19T21:14:20+09:00
 lastmod: 2019-12-19T21:14:20+09:00
-draft: true
+draft: false
 podcast:
     mp3: "./sounds/001/ohfm-001-03.m4a"
     duration: 23:23
