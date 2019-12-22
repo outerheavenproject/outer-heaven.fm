@@ -23,5 +23,4 @@ th {
 | <img src="https://avatars.githubusercontent.com/CORDEA" class="profile-image" /> | <img src="https://avatars.githubusercontent.com/keima" class="profile-image" /> | <img src="https://avatars.githubusercontent.com/satoshun" class="profile-image" /> |
 |:---:|:---:|:---:|
 | よっぴー | けいま | stsn |
-| Android Applications Engineer. | | |
 | [Twitter](https://twitter.com/_Cordea) / [GitHub](https://github.com/CORDEA) | [Twitter](https://twitter.com/pside) / [GitHub](https://github.com/keima) | [Twitter](https://twitter.com/stsn_jp) / [GitHub](https://github.com/satoshun) |
