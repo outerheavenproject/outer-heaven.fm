@@ -1,7 +1,7 @@
 ---
 title: "Season1 Episode5 - Recruiting"
 date: 2019-12-21T19:22:26+09:00
-draft: true
+draft: false
 podcast:
     # The path to the mp3 file [required]
     mp3: "./sounds/001/ohfm-001-05.m4a"
