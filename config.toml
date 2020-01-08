@@ -11,6 +11,10 @@ url = "https://github.com/outerheavenproject"
 
 [params]
 logo = false
+feedlinks = true
+footer = """
+[<img src='/google_podcasts_badge.svg' width='134' height='34' />](https://www.google.com/podcasts?feed=aHR0cHM6Ly9vdXRlcmhlYXZlbnByb2plY3QuZ2l0aHViLmlvL3BvZGNhc3QvaW5kZXgueG1s)
+"""
 
 [params.podcast]
 title = "outer-heaven.fm"
