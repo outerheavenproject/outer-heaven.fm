@@ -1,7 +1,7 @@
 ---
 title: "Season1 Episode6 - Team building"
 date: 2019-12-21T19:37:48+09:00
-draft: true
+draft: false
 podcast:
     # The path to the mp3 file [required]
     mp3: "./sounds/001/ohfm-001-06.m4a"
