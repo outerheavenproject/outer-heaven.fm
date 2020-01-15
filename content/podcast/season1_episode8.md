@@ -1,5 +1,5 @@
 ---
-title: "Season1 Episode8 - Prologue"
+title: "Season1 Episode8 - Epilogue"
 date: 2020-01-11T17:21:14+09:00
 draft: false
 podcast:
