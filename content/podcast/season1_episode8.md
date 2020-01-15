@@ -1,7 +1,7 @@
 ---
 title: "Season1 Episode8 - Prologue"
 date: 2020-01-11T17:21:14+09:00
-draft: true
+draft: false
 podcast:
     # The path to the mp3 file [required]
     mp3: "./sounds/001/ohfm-001-08.m4a"

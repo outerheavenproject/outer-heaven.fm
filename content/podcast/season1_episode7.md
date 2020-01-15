@@ -1,7 +1,7 @@
 ---
 title: "Season1 Episode7 - Engineering survival guide"
 date: 2020-01-11T16:57:28+09:00
-draft: true
+draft: false
 podcast:
     # The path to the mp3 file [required]
     mp3: "./sounds/001/ohfm-001-07.m4a"
