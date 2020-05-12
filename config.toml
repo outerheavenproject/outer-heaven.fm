@@ -22,6 +22,10 @@ description = "Android を中心として Native アプリ界隈を取り巻く�
 author = "OUTER HEAVEN PROJECT"
 image = "images/ohfm.png"
 
+[params.podcast.owner]
+name = "OUTER HEAVEN PROJECT"
+email = "outer-heaven-project@googlegroups.com"
+
 [params.podcast.category]
 name = "Technology"
 
